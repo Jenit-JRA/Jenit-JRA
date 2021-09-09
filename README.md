@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Jenit-JRA
-- 👀 I’m interested in Web development...
-- 🌱 I’m currently learning android app development...
 - 📫 How to reach me ...[Instagram](https://www.instagram.com/jenit_abraham/)
 
 <!---
